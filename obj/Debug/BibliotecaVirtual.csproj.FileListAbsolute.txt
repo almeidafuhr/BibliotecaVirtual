@@ -1,0 +1,8 @@
+C:\Users\almei\Desktop\BV\BibliotecaVirtual\bin\Debug\BibliotecaVirtual.exe.config
+C:\Users\almei\Desktop\BV\BibliotecaVirtual\bin\Debug\BibliotecaVirtual.exe
+C:\Users\almei\Desktop\BV\BibliotecaVirtual\bin\Debug\BibliotecaVirtual.pdb
+C:\Users\almei\Desktop\BV\BibliotecaVirtual\obj\Debug\BibliotecaVirtual.csproj.AssemblyReference.cache
+C:\Users\almei\Desktop\BV\BibliotecaVirtual\obj\Debug\BibliotecaVirtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\almei\Desktop\BV\BibliotecaVirtual\obj\Debug\BibliotecaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\almei\Desktop\BV\BibliotecaVirtual\obj\Debug\BibliotecaVirtual.exe
+C:\Users\almei\Desktop\BV\BibliotecaVirtual\obj\Debug\BibliotecaVirtual.pdb
